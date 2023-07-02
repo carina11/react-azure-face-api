@@ -1,6 +1,7 @@
 # React example of Azure Face API
 This repo shows examples of how you can use Azure's Face API with ReactJS.  
 Firebase is used for DB and hosting.
+[Demo](https://react-example-azure-faceapi.web.app/)
 ## Components
 - Home.jsx 
     1. Register Face with a Name
